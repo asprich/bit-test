@@ -5,7 +5,7 @@
 <style scoped>
 button {
     display: inline-block;
-    background: #317de0;
+    background: #37e031;
     color: #fff;
     border: 1px solid #bbb;
     border-radius: 4px;
