@@ -14,5 +14,10 @@
   },
   "dependencies": {
     "vue": "^3.0.7"
+  },
+  "bit": {
+    "env": {},
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm"
   }
 }
